@@ -1,5 +1,5 @@
 all:
-    gcc main.c -o app
+    gcc main.c -o app - Wall
 
 clean:
     rm app
