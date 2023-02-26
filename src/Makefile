@@ -1,5 +1,2 @@
-all:
-    gcc main.c -o app -Wall
-
-clean:
-    rm app
+main:
+	gcc main.c -o app -Wall
