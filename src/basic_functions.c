@@ -1,3 +1,12 @@
+#include <stdio.h>
+
+int basic_functions(void)
+{
+    puts("Basic Operations");
+
+    return 0;
+}
+
 double add(double a, double b)
 {
     return a + b;

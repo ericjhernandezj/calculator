@@ -27,6 +27,32 @@ int main(void)
     printf("\n:");
     scanf("%i", &choice);
 
+    switch (choice)
+    {
+    case 1: basic_functions();
+        break;
+    case 2: puts("Work in progress");
+        break;
+    case 3: puts("Work in progress");
+        break;
+    case 4: puts("Work in progress");
+        break;
+    case 5: puts("Work in progress");
+        break;
+    case 6: puts("Work in progress");
+        break;
+    case 7: puts("Work in progress");
+        break;
+    case 8: puts("Work in progress");
+        break;
+    case 9: puts("Work in progress");
+        break;
+    case 10: puts("Work in progress");
+        break;
+    default: puts("Invalid input");
+        break;
+    }
+
     return 0;
 }
 

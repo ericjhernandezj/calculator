@@ -1,6 +1,8 @@
 #ifndef BASIC_FUNCTIONS
 #define BASIC_FUNCTIONS
 
+int basic_functions(void);
+
 double add(double a, double b);
 double subtract(double a, double b);
 double multiply(double a, double b);
