@@ -1,2 +1,2 @@
 main:
-	gcc main.c basic_functions.c -o app -Wall -Wextra
+	gcc main.c general_functions.c basic_functions.c -o app -Wall -Wextra
