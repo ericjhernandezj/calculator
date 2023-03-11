@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-void clearTerminal(void);
 
 int basic_functions(void)
 {
@@ -36,13 +33,4 @@ double multiply(double a, double b)
 double divide(double a, double b)
 {
     return a / b;
-}
-
-void clearTerminal(void)
-{
-#ifdef _WIN32
-    system("cls");
-#else
-    system("clear");
-#endif
 }
