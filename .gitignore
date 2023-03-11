@@ -1,3 +1,5 @@
 src/app
 src/test.c
 src/test
+
+.vscode/
