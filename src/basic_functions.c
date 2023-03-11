@@ -4,15 +4,20 @@
 
 int basic_functions(void)
 {
+    int choice;
+
     clearTerminal();
 
-    puts("----- Basic Operations -----");
+    puts("----- Basic Operations -----\n");
 
-    puts("What operation do you want to perform?");
+    puts("What operation do you want to perform?\n");
     puts("1. Addition");
     puts("2. Subtraction");
     puts("3. Multiplication");
     puts("4. Division");
+
+    printf("\n:");
+    scanf("%i", &choice);
 
     return 0;
 }
