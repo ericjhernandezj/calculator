@@ -14,15 +14,15 @@ int main(void)
 
     puts("Menu\n");
     puts("1. Basic Operations");
-    puts("2. Advanced  Operations");
-    puts("3. Unit Conversion");
-    puts("4. Calculus");
-    puts("5. Probability and Statistics");
-    puts("6. Geometry");
-    puts("7. Matrices");
-    puts("8. Algebra");
-    puts("9. Base Conversion (decimal, binary, hexadecimal)");
-    puts("10. Finance");
+    puts("2. Advanced  Operations (coming soon)");
+    puts("3. Unit Conversion (coming soon)");
+    puts("4. Calculus (coming soon)");
+    puts("5. Probability and Statistics (coming soon)");
+    puts("6. Geometry (coming soon)");
+    puts("7. Matrices (coming soon)");
+    puts("8. Algebra (coming soon)");
+    puts("9. Base Conversion (decimal, binary, hexadecimal) (coming soon)");
+    puts("10. Finance (coming soon)");
 
     printf("\n:");
     scanf("%i", &choice);
