@@ -1,5 +1,5 @@
-#ifndef BASIC_FUNCTIONS
-#define BASIC_FUNCTIONS
+#ifndef GENERAL_FUNCTIONS
+#define GENERAL_FUNCTIONS
 
 void clearTerminal(void);
 
