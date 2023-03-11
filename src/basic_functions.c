@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include "general_functions.h"
+
 int basic_functions(void)
 {
     clearTerminal();

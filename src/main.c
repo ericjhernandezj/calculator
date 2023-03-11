@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+#include "general_functions.h"
 #include "basic_functions.h"
 
 int main(void)
